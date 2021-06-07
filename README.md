@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hydrobee3000
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning js, react, html, css
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hydrombee@gmail.com
 
 <!---
