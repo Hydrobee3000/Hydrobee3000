@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hydrobee3000
+- 👋 Hi, I’m Alexey 
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning js, react, html, css
 - 📫 How to reach me: hydrombee@gmail.com
