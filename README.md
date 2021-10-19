@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexey 
-- 👀 I’m interested in frontend development
+- 👀 I’m interest in frontend development and want to develop in this direction
 - 🌱 I’m currently learning javascript, typescript, react, redux, html, css
 - 📫 How to reach me: hydrombee@gmail.com
 
