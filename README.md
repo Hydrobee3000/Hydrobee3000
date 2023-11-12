@@ -4,7 +4,7 @@ Hi, I’m Alexey. 📫 hydrombee@gmail.com
 >I've been actively involved in web development for **3 years**, with ***2 years*** of experience in ***commercial development***.
 >
 >
-> `🌏 Frontend`: I specialize in creating **SPA/PWA** using React, utilizing both ***TypeScript*** and ***JavaScript***.
+> `🌏 Frontend`: I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.
 >  
 >`🌐 Backend`: I specialize in creating **REST APIs**.
 >  - At work, I use ***.NET C#***.
