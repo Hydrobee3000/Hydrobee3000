@@ -37,7 +37,7 @@ Hi, I’m Alexey. 📫 hydrombee@gmail.com
 > - `webpack` - configured from scratch
 > - `Axios`
 
-**Preprocesors**
+**Preprocessors**
 > 
 > - `Scss` 
 > - `Less`
