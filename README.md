@@ -46,10 +46,6 @@ Hi, I’m Alexey. 📫 hydrombee@gmail.com
 > 
 > - `Material UI` 
 > - `Ant Design`
-
-
----
-📫 hydrombee@gmail.com
  
 
 <!---
