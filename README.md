@@ -1,14 +1,11 @@
 ### :honeybee: About me
 Hi, I’m Alexey. 📫 hydrombee@gmail.com
 
->I've been actively involved in web development for **3 years**, with ***2 years*** of ***experience*** in ***commercial*** development.
+>I've been actively involved in web development for **5 years**, with ***4 years*** of ***experience*** in ***commercial*** development.
 >
 >
-> `🌏 Frontend`: I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.
->  
->`🌐 Backend`: I specialize in creating **REST APIs**.
->  - At work, I use ***.NET C#***.
->  - For personal development, I delve into ***Node.js*** with ***Express.js***.
+> `🌏 Frontend`: I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.  
+
 
 
 ---
@@ -19,7 +16,6 @@ Hi, I’m Alexey. 📫 hydrombee@gmail.com
 >
 > - `Javascript` 
 > - `Typescript` 
-> - `C#` 
 
 **React + Redux**
 > 
@@ -35,6 +31,7 @@ Hi, I’m Alexey. 📫 hydrombee@gmail.com
 **Build and Integration Tools**
 >
 > - `webpack` - configured from scratch
+> - `vite`
 > - `Axios`
 
 **Preprocessors**
