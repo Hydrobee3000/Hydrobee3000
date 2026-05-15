@@ -1,10 +1,24 @@
 ### :honeybee: About me
-Hi, I’m Alexey. 📫 hydrombee@gmail.com
+Hi, I’m Alexey. 
+
+📫 hydrombee@gmail.com
+
+<a href="https://t.me/hydrombee">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+    width="16"
+    height="16"
+  />
+  @hydrombee
+</a>
+
+<br />
+<br />
 
 >I've been actively involved in web development for **5 years**, with ***4 years*** of ***experience*** in ***commercial*** development.
 >
 >
-> `🌏 Frontend`: I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.  
+> I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.  
 
 
 
