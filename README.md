@@ -36,15 +36,17 @@ Hi, I’m Alexey.
 > - `React`
 > - `react-redux`
 > - `react-roter-dom`
+> - `React-Hook-Form`
 > >
 > - `Redux`
-> - `Redux Toolkit`
 > - `redux-thunk`
 > - `redux-saga`
+> - `Redux Toolkit (RTK)`
+> - `RTK Query`
 
-**Build and Integration Tools**
+**Build and Integration Tools**  - configured from scratch
 >
-> - `webpack` - configured from scratch
+> - `webpack`
 > - `vite`
 > - `Axios`
 
@@ -57,7 +59,7 @@ Hi, I’m Alexey.
 > 
 > - `Material UI` 
 > - `Ant Design`
- 
+> - `Storybook`
 
 <!---
 Hydrobee3000/Hydrobee3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
