@@ -15,7 +15,7 @@ Hi, I’m Alexey.
 <br />
 <br />
 
->I've been actively involved in web development for **5 years**, with ***4 years*** of ***experience*** in ***commercial*** development.
+>I've been actively involved in web development for **5.5+ years**, with ***4.5 years*** of ***experience*** in ***commercial*** development. (<i>You can see activity from 2021</i>) 
 >
 >
 > I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.  
