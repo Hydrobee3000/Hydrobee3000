@@ -28,8 +28,8 @@ Hi, I’m Alexey.
 
 **Languages**
 >
-> - `Javascript` 
-> - `Typescript` 
+> - `JavaScript` 
+> - `TypeScript` 
 
 **React + Redux**
 > 
