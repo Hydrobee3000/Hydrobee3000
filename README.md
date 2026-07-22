@@ -15,51 +15,10 @@ Hi, I’m Alexey.
 <br />
 <br />
 
->I've been actively involved in web development for **5.5+ years**, with ***4.5 years*** of ***experience*** in ***commercial*** development. (<i>You can see activity from 2021</i>) 
->
->
-> I specialize in creating **SPA/PWA** using `React`, utilizing both ***TypeScript*** and ***JavaScript***.  
+I've been actively involved in web development for **5.5+ years**, with ***4.5 years*** of ***experience*** in ***commercial*** development. (<i>You can see activity from 2021</i>) 
 
 
-
----
-
-### ⚙️ Technology stack
-
-**Languages**
->
-> - `JavaScript` 
-> - `TypeScript` 
-
-**React + Redux**
-> 
-> - `React`
-> - `react-redux`
-> - `react-roter-dom`
-> - `React-Hook-Form`
-> >
-> - `Redux`
-> - `redux-thunk`
-> - `redux-saga`
-> - `Redux Toolkit (RTK)`
-> - `RTK Query`
-
-**Build and Integration Tools**  - configured from scratch
->
-> - `webpack`
-> - `vite`
-> - `Axios`
-
-**Preprocessors**
-> 
-> - `Scss` 
-> - `Less`
-
-**UI libraries**
-> 
-> - `Material UI` 
-> - `Ant Design`
-> - `Storybook`
+>`JavaScript` - `TypeScript` - `React` - `react-redux` - `react-router-dom` - `React-Hook-Form` - `Redux` - `redux-thunk` - `redux-saga` - `Redux Toolkit (RTK)` - `RTK Query` - `webpack` - `vite` - `Axios` - >`Scss` - `Less` - `Material UI` - `Ant Design` - `Storybook`
 
 <!---
 Hydrobee3000/Hydrobee3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
