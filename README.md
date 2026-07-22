@@ -1,5 +1,4 @@
-### :honeybee: About me
-Hi, I’m Alexey. 
+### :honeybee: Hi, I’m Alexey
 
 📫 hydrombee@gmail.com
 
