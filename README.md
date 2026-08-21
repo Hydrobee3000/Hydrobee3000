@@ -17,7 +17,7 @@
 I've been actively involved in web development for **5.5+ years**, with ***4.5 years*** of ***experience*** in ***commercial*** development.      (<i>You can see activity from 2021</i>) 
 
 
->`JavaScript` - `TypeScript` - `React` - `Redux` - `Redux-Thunk/Saga` - `Redux Toolkit (RTK)` - `RTK Query` - `Webpack` - `Vite` - `Nest.js` - `React-Hook-Form` - `Zod` - `Axios` - `Scss` - `Less` - `Material UI` - `Ant Design` - `Storybook` - `i18n` - `chart.js` - `am.charts5` - `monorepo`
+>`JavaScript` - `TypeScript` - `React` - `Redux` - `Nest.js` - `Redux-Thunk/Saga` - `Redux Toolkit (RTK)` - `RTK Query` - `Webpack` - `Vite` - `React-Hook-Form` - `Zod` - `Axios` - `Scss` - `Less` - `Material UI` - `Ant Design` - `Storybook` - `i18n` - `chart.js` - `am.charts5` - `monorepo`
 
 <!---
 Hydrobee3000/Hydrobee3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
