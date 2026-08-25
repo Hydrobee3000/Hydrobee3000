@@ -17,7 +17,7 @@
 I've been actively involved in web development for **5.5+ years**, with ***4y 9m*** of ***experience*** in ***commercial*** development.      (<i>You can see activity from 2021</i>) 
 
 
->`JavaScript` - `TypeScript` - `React` - `Redux` - `Nest.js` - `Redux-Thunk/Saga` - `Redux Toolkit (RTK)` - `RTK Query` - `Webpack` - `Vite` - `React-Hook-Form` - `Zod` - `Axios` - `Scss` - `Less` - `Material UI` - `Ant Design` - `Storybook` - `i18n` - `chart.js` - `am.charts5` - `monorepo`
+>`JavaScript` - `TypeScript` - `React` - `Redux` - `Nest.js` - `Redux-Thunk/Saga` - `Redux Toolkit (RTK)` - `RTK Query` - `Angular` - `Webpack` - `Vite` - `React-Hook-Form` - `Zod` - `Axios` - `Scss` - `Less` - `Material UI` - `Ant Design` - `Storybook` - `i18n` - `chart.js` - `am.charts5` - `monorepo`
 
 
 
