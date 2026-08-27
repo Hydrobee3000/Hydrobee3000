@@ -1,19 +1,5 @@
 ### :honeybee: Hi, I’m Alexey
 
-📫 hydrombee@gmail.com
-
-<a href="https://t.me/hydrombee">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-    width="16"
-    height="16"
-  />
-  @hydrombee
-</a>
-
-<br />
-<br />
-
 I've been actively involved in web development for **5.5+ years**, with ***4y 9m*** of ***experience*** in ***commercial*** development.      (<i>You can see activity from 2021</i>) 
 
 
@@ -54,13 +40,13 @@ I've been actively involved in web development for **5.5+ years**, with ***4y 9m
   <img width="12" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="36" height="36" alt="Postman" title="Postman"/>
   <img width="12" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="36" height="36" alt="npm" title="npm"/>
-  <img width="12" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="36" height="36" alt="REST" title="REST"/>
   <img width="12" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="36" height="36" alt="CI/CD" title="CI/CD"/>
-  <img width="12" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" width="36" height="36" alt="Swagger" title="Swagger"/>
+  <img width="12" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="36" height="36" alt="npm" title="npm"/>
+  <img width="12" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="36" height="36" alt="CI/CD" title="CI/CD"/>
   <img width="12" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" width="36" height="36" alt="Vault" title="Vault"/>
   <img width="12" />
